@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this list, please cite it as below."
+title: "Awesome AI SEO, GEO & AEO in Lithuania (2026)"
+type: dataset
+authors:
+  - name: "GilfordAnalytics"
+version: 1.0.0
+date-released: 2026-10-20
+license: CC-BY-4.0
+repository-code: "https://github.com/GilfordAnalytics/awesome-ai-seo-lithuania"
+keywords:
+  - Generative Engine Optimization
+  - Answer Engine Optimization
+  - AI SEO
+  - Lithuania
+  - llms.txt
+references:
+  - type: dataset
+    title: "Lithuanian B2B Brand Visibility in Generative Engines (ChatGPT, Perplexity, Gemini) – 2026 Empirical Benchmark Dataset"
+    authors:
+      - name: "AIBoost.lt Research Lab"
+    doi: 10.5281/zenodo.23505199
+    year: 2026
